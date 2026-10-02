@@ -1,12 +1,14 @@
 # EfficientPDF - Backend Architecture Showcase
 
-> **Note:** This repository serves as a backend architectural showcase and portfolio piece for the commercial SaaS application [EfficientPDF.com](https://efficientpdf.com). 
+> ⚠️ **Project status: Discontinued.** The EfficientPDF.com service was shut down in October 2026 and is no longer available. This repository is kept for reference only and is not actively maintained.
+>
+> **Note:** This repository serves as a backend architectural showcase and portfolio piece for the former commercial SaaS application EfficientPDF.com.
 > 
 > 🔒 **To protect intellectual property, the core proprietary business logic (PDF parsing algorithms and Google Gemini LLM integration) has been omitted from this public repository.**
 
 ## Overview
 
-This project demonstrates a production-ready Python backend infrastructure. It showcases modern web development using Flask, focusing on clean architecture (Application Factory pattern, Blueprints), security, and robust integration with third-party APIs.
+This project demonstrates the Python backend infrastructure that ran the service in production. It showcases modern web development using Flask, focusing on clean architecture (Application Factory pattern, Blueprints), security, and robust integration with third-party APIs.
 
 ## Highlighted Features
 
@@ -30,13 +32,15 @@ This project demonstrates a production-ready Python backend infrastructure. It s
 
 # EfficientPDF - Ukázka backendové architektury
 
-> **Poznámka:** Tento repozitář slouží jako architektonická ukázka a součást portfolia backendu komerční SaaS aplikace [EfficientPDF.com](https://efficientpdf.com). 
+> ⚠️ **Stav projektu: Ukončeno.** Služba EfficientPDF.com byla v říjnu 2026 vypnuta a již není dostupná. Repozitář zůstává zachován pouze jako reference a není dále aktivně udržován.
+>
+> **Poznámka:** Tento repozitář slouží jako architektonická ukázka a součást portfolia backendu bývalé komerční SaaS aplikace EfficientPDF.com.
 >
 > 🔒 **Z důvodu ochrany duševního vlastnictví (IP) byla z tohoto veřejného repozitáře vynechána proprietární byznysová logika (algoritmy pro zpracování PDF a integrace s LLM modelem Google Gemini).**
 
 ## O projektu
 
-Tento projekt prezentuje backendovou infrastrukturu připravenou na produkční nasazení. Ukazuje moderní vývoj v Pythonu (Flask) se zaměřením na čistou architekturu (Application Factory, Blueprints), bezpečnost a robustní integraci služeb třetích stran.
+Tento projekt prezentuje backendovou infrastrukturu, na které služba běžela v produkci. Ukazuje moderní vývoj v Pythonu (Flask) se zaměřením na čistou architekturu (Application Factory, Blueprints), bezpečnost a robustní integraci služeb třetích stran.
 
 ## Hlavní ukázky kódu
 
